@@ -4,7 +4,7 @@ const express = require('express');
 // ВАЖНЫЕ НАСТРОЙКИ (Заполните своими данными)
 const TOKEN = '8327093113:AAEfOI7sJMOQDlLuvYbcc_jAzyU6Xs7R2Sg'; 
 const MANAGER_URL = "https://t.me/reznikovru"; 
-const COMBINED_PHOTO = 'https://dummyimage.com/800x400/c9ab81/000000.jpg&text=Here+is+your+Image';
+const COMBINED_PHOTO = 'https://github.com/s1ngleee/unit_pack/blob/main/1.jpg';
 
 // 1. Создаем мини-сервер (нужно для бесплатных хостингов, чтобы бот не "усыпал")
 const app = express();
